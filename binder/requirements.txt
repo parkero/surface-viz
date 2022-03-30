@@ -19,3 +19,5 @@ kaleido
 scikit-learn
 umap-learn
 wget
+
+k3d
